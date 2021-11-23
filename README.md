@@ -17,24 +17,24 @@
 <img src="./img/sales_v_purchases_germany.png"/>
 
 - Perform task iii above using plotly
-<img src="img/sales_v_purchases_germany_px.png" alt="line chart of sales vs purchases in 2010 for Germany"
+<img src="./img/sales_v_purchases_germany_px.png"/>
 
-<img src="img/sales_v_purchases_romania_px.png" alt="line chart of sales vs purchases in 2010 for Romania"
+<img src="./img/sales_v_purchases_romania_px.png"/>
 
 - Perform task iii above using matplotlb bar graph
-<img src="img/sales_v_purchases_germany_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Germany"
+<img src="./img/sales_v_purchases_germany_px_bar.png"/>
 
-<img src="img/sales_v_purchases_romania_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Romania"
+<img src="./img/sales_v_purchases_romania_px_bar.png"/>
 
 - Create a series containing the sum total of sales in all countries listed. use this series to plot a piechart and label each component
-<img src="/img/all_country_sales_pie.png" alt="pie chart for all country sales"
+<img src="./img/all_country_sales_pie.png"/> 
 
 - Plot a pie chart of the sales made in the top countries from each region, i.e: Identify the country that made the most sales in each region then use this data to plot a pie chart. On this chart, explode only the pie section representing the country with the overall best sale.
-<img src="/img/P1.png" alt="pie chart showing top country in region"
+<img src="./img/P1.png"/>
 
-<img src="/img/P2.png" alt="pie chart showing top country in region"
+<img src="./img/P2.png"/> 
 
-<img src="/img/P3.png" alt="pie chart showing top country in region"
+<img src="./img/P3.png"/>
 
 Note: While answering all questions above, export the resulting graphs and include them in the readme
 of your assignment repository. All charts should be labelled and titled appropriately.
