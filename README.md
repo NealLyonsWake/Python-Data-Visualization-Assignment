@@ -8,14 +8,12 @@
 
 ### Using matplotlib, create visualisations to show the following:
 - Sales for the year of 2010 across all countries
- [image 1](/img/country_sales_2010.png)  
+ <img src="./img/country_sales_2010.png"/>  
 
 - Sales for the year of 2010 across each region (i.e. North America, Europe,...)
-[image 2] /img/sales_v_purchases_romania.png
+<img src="./img/sales_v_purchases_romania.png"/>
 
 - Using line charts Purchase vs Sales for the year of 2010 for all countries in Europe that have both sales and purchase records (one chart per country)
-
-### Purchase vs Sales for the year of 2010 for all countries in Europe
 <img src="./img/sales_v_purchases_germany.png"/>
 
 - Perform task iii above using plotly
