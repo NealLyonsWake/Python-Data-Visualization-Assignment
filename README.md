@@ -11,10 +11,11 @@
  <img src="./img/country_sales_2010.png"/>  
 
 - Sales for the year of 2010 across each region (i.e. North America, Europe,...)
-<img src="./img/sales_v_purchases_romania.png"/>
+ <img src="./img/region_sales_2010.png"/> 
 
 - Using line charts Purchase vs Sales for the year of 2010 for all countries in Europe that have both sales and purchase records (one chart per country)
 <img src="./img/sales_v_purchases_germany.png"/>
+<img src="./img/sales_v_purchases_romania.png"/>
 
 - Perform task iii above using plotly
 <img src="./img/sales_v_purchases_germany_px.png"/>
