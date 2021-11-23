@@ -14,7 +14,9 @@
 [image 2] /img/sales_v_purchases_romania.png
 
 - Using line charts Purchase vs Sales for the year of 2010 for all countries in Europe that have both sales and purchase records (one chart per country)
-<img src="./img/sales_v_purchases_germany.png"
+
+### Purchase vs Sales for the year of 2010 for all countries in Europe
+<img src="./img/sales_v_purchases_germany.png"/>
 
 - Perform task iii above using plotly
 <img src="img/sales_v_purchases_germany_px.png" alt="line chart of sales vs purchases in 2010 for Germany"
