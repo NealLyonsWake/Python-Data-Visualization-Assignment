@@ -8,23 +8,23 @@
 
 ### Using matplotlib, create visualisations to show the following:
 - Sales for the year of 2010 across all countries
-<img src="/img/country_sales_2010.png" alt="a bar chart with total sales figures per country in 2010"
+<img src="img/country_sales_2010.png" alt="a bar chart with total sales figures per country in 2010"
 
 - Sales for the year of 2010 across each region (i.e. North America, Europe,...)
-<img src="/img/sales_v_purchases_romania.png" alt="line chart of sales vs purchases in 2010 for Romania"
+<img src="img/sales_v_purchases_romania.png" alt="line chart of sales vs purchases in 2010 for Romania"
 
 - Using line charts Purchase vs Sales for the year of 2010 for all countries in Europe that have both sales and purchase records (one chart per country)
-<img src="/img/sales_v_purchases_germany.png" alt="line chart of sales vs purchases in 2010 for Germany"
+<img src="img/sales_v_purchases_germany.png" alt="line chart of sales vs purchases in 2010 for Germany"
 
 - Perform task iii above using plotly
-<img src="/img/sales_v_purchases_germany_px.png" alt="line chart of sales vs purchases in 2010 for Germany"
+<img src="img/sales_v_purchases_germany_px.png" alt="line chart of sales vs purchases in 2010 for Germany"
 
-<img src="/img/sales_v_purchases_romania_px.png" alt="line chart of sales vs purchases in 2010 for Romania"
+<img src="img/sales_v_purchases_romania_px.png" alt="line chart of sales vs purchases in 2010 for Romania"
 
 - Perform task iii above using matplotlb bar graph
-<img src="/img/sales_v_purchases_germany_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Germany"
+<img src="img/sales_v_purchases_germany_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Germany"
 
-<img src="/img/sales_v_purchases_romania_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Romania"
+<img src="img/sales_v_purchases_romania_px_bar.png" alt="bar chart of sales vs purchases in 2010 for Romania"
 
 - Create a series containing the sum total of sales in all countries listed. use this series to plot a piechart and label each component
 <img src="/img/all_country_sales_pie.png" alt="pie chart for all country sales"
